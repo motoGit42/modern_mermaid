@@ -1,0 +1,10 @@
+node_modules
+dist
+dist-extension
+coverage
+.git
+.github
+docs
+conductor
+*.local
+.env*
